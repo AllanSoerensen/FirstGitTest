@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 public class Pseudo
 	{
-		public string pseudoName { get; set; }
+		public string PseudoName { get; set; }
+		public bool IsAlive { get; set; }
 	}
 
